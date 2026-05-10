@@ -1,0 +1,20 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.idea/
+.vscode/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Local environment files
+.env
+.env.*
+
+# Upload/export folders generated locally
+/_github_upload*/
+*.zip
